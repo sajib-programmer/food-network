@@ -1,0 +1,61 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.common-section {
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+.same-width {
+    width: 50%;
+}
+
+span {
+    color: orange;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.back-img {
+    position: relative;
+}
+
+.ss {
+    width: 100%;
+}
+
+.dd {
+    position: absolute;
+    width: 80%;
+    top: 10px;
+    left: 30px;
+}
+
+p {
+    margin: 20px 0px;
+}
+
+a {
+    padding: 15px 40px;
+    background-image: linear-gradient(to right bottom, tomato, red);
+    display: inline-block;
+    margin-top: 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 700;
+
+}
+
+.sec-bg {
+    background-image: url(../images/shapes/Frame\ 58.jpg);
+    background-size: cover;
+}
